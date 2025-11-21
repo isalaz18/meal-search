@@ -4,7 +4,7 @@ import HomePage from '@/views/HomePage.vue'
 import MealsByName from './views/MealsByName.vue'
 import MealsByLetter from './views/MealsByLetter.vue'
 import MealsByIngredients from './views/MealsByIngredients.vue'
-import MealDetails from './views/Ingredients.vue'
+import MealDetails from './views/MealDetails.vue'
 import Ingredients from './views/Ingredients.vue'
 
 const routes = [
