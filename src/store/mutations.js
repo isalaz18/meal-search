@@ -1,5 +1,5 @@
 export function setSearchedMeals(state, meals) {
-    state.searchMeals = meals || []
+    state.searchedMeals = meals || []
 }
 
 export function setMealsByLetter(state, meals) {
